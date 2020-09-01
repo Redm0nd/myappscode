@@ -4,7 +4,7 @@
 pipeline {
   agent any
   environment {
-    AWS_ACCOUNT_ID = '126432777943 '
+    AWS_ACCOUNT_ID = '126432777943'
     AWS_REGION = 'eu-west-1'
     AWS_CA_DOMAIN = 'my-domain'
     AWS_CA_REPO = 'my-repository'
